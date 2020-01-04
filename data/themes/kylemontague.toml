@@ -5,12 +5,12 @@ name = "KyleMontague"
 light = true
 
 # Primary
-primary = "#29ffdf"
+primary = "#14c9af"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#2962ff"
+menu_text_active = "#14c9af"
 menu_title = "#2b2b2b"
 
 # Home sections
