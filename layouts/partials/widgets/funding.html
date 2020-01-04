@@ -44,9 +44,10 @@
                 {{ i18n "present" | default "Present" }}
               {{end}}
               {{with .funding_role}}
-              {{with .amount}}
                 <span class="middot-divider"></span>
                 <span>{{.}}</span>
+              {{end}}
+              {{with .amount}} <span>{{.}}</span>
               {{end}}
             </div>
             {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
