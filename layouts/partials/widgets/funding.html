@@ -43,7 +43,7 @@
               {{else}}
                 {{ i18n "present" | default "Present" }}
               {{end}}
-              {{with .role}}
+              {{with .role .amount}}
                 <span class="middot-divider"></span>
                 <span>{{.}}</span>
               {{end}}
