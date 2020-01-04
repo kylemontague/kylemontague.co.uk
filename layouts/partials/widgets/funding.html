@@ -38,8 +38,12 @@
             </h4>
             <div class="text-muted exp-meta">
               {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
-              {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
-              {{with .role}} - {{with .amount}}
+              {{ if .date_end}}
+                {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+              {{else}}
+                {{ i18n "present" | default "Present" }}
+              {{end}}
+              {{with .role}}
                 <span class="middot-divider"></span>
                 <span>{{.}}</span>
               {{end}}
