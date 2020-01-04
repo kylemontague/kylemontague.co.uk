@@ -35,7 +35,7 @@
             <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
             <h4 class="card-title exp-company text-muted my-0">
               {{- with .funder_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.funder | markdownify | emojify}}{{with .funder_url}}</a>{{end -}}
-              - {{with .amount}} <span>{{.}}</span> {{end}}
+              {{with .amount}} <span> – {{.}}</span> {{end}}
             </h4>
             <div class="text-muted exp-meta">
               {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
