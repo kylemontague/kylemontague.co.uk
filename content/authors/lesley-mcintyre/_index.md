@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Sérgio Alves
+name: Lesley McIntyre
 
 # Username (this should match the folder name)
 authors:
-- sergio-alves
+- lesley-mcintyre
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Newcastle University
+- name: University of Northumbria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,6 +54,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Visiting Researchers
 ---
 
