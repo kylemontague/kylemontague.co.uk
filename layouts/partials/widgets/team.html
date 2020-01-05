@@ -38,14 +38,16 @@
   {{ end }}
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
+    {{ $alt := "" }}
     {{ if site.Params.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=200" (md5 .Params.email) }}
     {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "150x150 Center" }}
       {{ $src = $avatar_image.RelPermalink }}
+      {{ $alt = .Params.name }}
     {{ end }}
     {{ if $src }}
-      <img class="portrait" src="{{ $src }}" alt="{{with .Params.name }}">{{end}}
+      <img class="portrait" src="{{ $src }}" alt="{{ $alt }}">
     {{ end }}
 
     <div class="portrait-title">
