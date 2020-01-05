@@ -69,4 +69,4 @@ user_groups:
 - Group Leader
 ---
 
-I am a faculty member of Newcastle University, School of Computing based in Open Lab where I lead the [Inclusive Design & Innovation (IDI)]({{< ref "home.md#team" >}}) research group. My research spans a breadth of topics and domains with the unifying vision - to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities. More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society.
+I am a faculty member of Newcastle University, School of Computing based in Open Lab where I lead the [Inclusive Design & Innovation (IDI)]({{< ref "/#team" >}}) research group. My research spans a breadth of topics and domains with the unifying vision - to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities. More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society.
