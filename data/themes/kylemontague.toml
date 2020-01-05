@@ -2,14 +2,14 @@
 name = "KyleMontague"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#14c9af"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
+menu_primary = "#23252f"
+menu_text = "#fff"
 menu_text_active = "#14c9af"
 menu_title = "#14c9af"
 
