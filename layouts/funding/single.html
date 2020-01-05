@@ -8,9 +8,20 @@
     <div class="article-style">
       {{ .Content }}
 
+      
 
       {{ with .Params.amount }}<span>{{ . }}</span>{{end}}
     </div>
   </div>
 </article>
 {{- end -}}
+
+
+amount: ""
+role: ""
+funder: ""
+external_link: ""
+date_start: ""
+date_end: ""
+pi:  ""
+cois: []
