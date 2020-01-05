@@ -1,0 +1,57 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      <div class="row" id="funding_list">
+        <div class="col-lg-2">
+          <h3>{{ .Key }}</h3>
+        </div>
+        <div class="col-lg-10">
+
+          {{ range .Pages }}
+            
+          <div class="card-simple">
+
+          
+            {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+            {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+            {{ with $resource }}
+            {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
+            <a href="{{ $item.RelPermalink }}">
+                <img src="{{ $image.RelPermalink }}" class="article-banner" alt="">
+            </a>
+            {{end}}
+          
+            <h3 class="article-title mb-1 mt-3">
+              <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+            </h3>
+          
+            {{ with $summary }}
+            <div class="article-style">
+              <p>{{.}}</p>
+            </div>
+            {{ end }}
+          
+            <h4>TEST</h4>
+          </div>
+
+          {{ end }}
+
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+
+</div>
+
+{{- end -}}
