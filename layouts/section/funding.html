@@ -41,7 +41,7 @@
         {{ else if eq $st.Params.design.view 2 }}
           {{ partial "li_compact" (dict "item" $item) }}
         {{ else if eq $st.Params.design.view 3 }}
-          {{ partial "funding_li_card" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
+          {{ partial "funding_li_card" (dict "widget" $st "index" $idx "item" $item "link" $link) }}
         {{ end }}
 
       {{ end }}
