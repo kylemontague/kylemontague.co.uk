@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Check out [all my projects]({{< ref "/project/_index.md" >}}).
