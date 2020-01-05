@@ -1,7 +1,7 @@
 ---
 title: "Aidme: interactive non-visual smartphone tutorials"
 date: 2018-01-01
-publishDate: 2020-01-04T11:04:37.662359Z
+publishDate: 2018-01-04T11:04:37.662359Z
 authors: ["André Rodrigues", "Leonardo Camacho", "Hugo Nicolau", "Kyle Montague", "Tiago Guerreiro"]
 publication_types: ["1"]
 abstract: ""

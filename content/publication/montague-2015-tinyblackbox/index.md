@@ -1,7 +1,7 @@
 ---
 title: "TinyBlackBox: supporting mobile in-the-wild studies"
 date: 2015-01-01
-publishDate: 2020-01-04T11:04:37.651537Z
+publishDate: 2015-01-04T11:04:37.651537Z
 authors: ["Kyle Montague", "André Rodrigues", "Hugo Nicolau", "Tiago Guerreiro"]
 publication_types: ["1"]
 abstract: ""

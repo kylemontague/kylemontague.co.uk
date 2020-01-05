@@ -1,7 +1,7 @@
 ---
 title: "Human-Data Interaction in the Context of Care: Co-designing Family Civic Data Interfaces and Practices"
-date: 2019-01-01
-publishDate: 2020-01-04T11:04:37.669892Z
+date: 2019-05-01
+publishDate: 2019-05-01T11:04:37.669892Z
 authors: ["Alex Bowyer", "Rob Wilson", "Stuart Wheater", "Matthew Snape", "Kyle Montague"]
 publication_types: ["1"]
 abstract: ""

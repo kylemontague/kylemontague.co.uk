@@ -1,7 +1,7 @@
 ---
 title: "In-context Q&A to support blind people using smartphones"
 date: 2017-01-01
-publishDate: 2020-01-04T11:04:37.657564Z
+publishDate: 2017-01-04T11:04:37.657564Z
 authors: ["André Rodrigues", "Kyle Montague", "Hugo Nicolau", "João Guerreiro", "Tiago Guerreiro"]
 publication_types: ["1"]
 abstract: ""
