@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enabling Ongoingness"
+title: "Engaging the workforce in real time: listening, understanding and responding to what matters most to our staff"
 summary: ""
-tags: []
+tags: ["Digital Health"]
 
-amount: "£885,438"
+amount: "£75,000"
 role: "Co-Investigator"
-funder: "EPSRC"
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
-date_start: "2017-06-01"
-date_end: "2021-06-01"
-pi:  "Jayne Wallace"
-investigators: ["Jayne Wallace", "Kyle Montague", "Shaun Lawson","Claire Craig, Patrick Olivier, Kellie Morrissey"]
+funder: "The Health Foundation"
+external_link: ""
+date_start: "2019-01-01"
+date_end: "2020-07-01"
+pi:  ""
+cois: ["Kyle Montague"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

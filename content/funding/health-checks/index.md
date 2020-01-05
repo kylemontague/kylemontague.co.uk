@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enabling Ongoingness"
+title: "Design and initial evaluation of an autism-specific health check for use with autistic adults in NHS Primary Care"
 summary: ""
 tags: []
 
-amount: "£885,438"
+amount: "£464,246"
 role: "Co-Investigator"
-funder: "EPSRC"
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
-date_start: "2017-06-01"
-date_end: "2021-06-01"
-pi:  "Jayne Wallace"
-investigators: ["Jayne Wallace", "Kyle Montague", "Shaun Lawson","Claire Craig, Patrick Olivier, Kellie Morrissey"]
+funder: "Autistica"
+external_link: "2019-02-01"
+date_start: "2022-02-01"
+date_end: ""
+pi:  ""
+cois: ["Kyle Montague"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

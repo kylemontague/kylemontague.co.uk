@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enabling Ongoingness"
-summary: ""
-tags: []
+title: "COLOSPEED"
+summary: "Development of a world-leading colorectal cancer research hub in the North East of England."
+tags: ["Digital Health"]
 
-amount: "£885,438"
+amount: "£985,000"
 role: "Co-Investigator"
-funder: "EPSRC"
-external_link: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
-date_start: "2017-06-01"
-date_end: "2021-06-01"
-pi:  "Jayne Wallace"
-investigators: ["Jayne Wallace", "Kyle Montague", "Shaun Lawson","Claire Craig, Patrick Olivier, Kellie Morrissey"]
+funder: "Sir Bobby Robson Foundation"
+external_link: ""
+date_start: "2019-11-01"
+date_end: "2025-11-01"
+pi:  "Colin Rees"
+cois: ["Colin Rees","Linda Sharp","Kyle Montague"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
