@@ -5,6 +5,7 @@ name: Kyle Montague
 # Username (this should match the folder name)
 authors:
 - kyle-montague
+- k-montague
 
 # Is this the primary user of the site?
 superuser: true
