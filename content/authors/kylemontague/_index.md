@@ -4,7 +4,7 @@ name: Kyle Montague
 
 # Username (this should match the folder name)
 authors:
-- admin
+- kylemontague
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,10 +15,10 @@ role: Lecturer in Human-Computer Interaction
 # Organizations/Affiliations
 organizations:
 - name: Newcastle University
-  url: ""
+  url: "https://www.ncl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a faculty member of Newcastle University, School of Computing based in Open Lab where I lead the Inclusive Design & Innovation (IDI) research group. My research spans a breadth of topics and domains with the unifying vision - to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities. More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society. 
 
 interests:
 - Inclusive Design
