@@ -4,7 +4,7 @@ name: Kyle Montague
 
 # Username (this should match the folder name)
 authors:
-- kylemontague
+- kyle-montague
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ncl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a faculty member of Newcastle University, School of Computing based in Open Lab where I lead the Inclusive Design & Innovation (IDI) research group. My research spans a breadth of topics and domains with the unifying vision - to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities. More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society. 
+bio: ""
 
 interests:
 - Inclusive Design
@@ -66,6 +66,4 @@ user_groups:
 - Group Leader
 ---
 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a faculty member of Newcastle University, School of Computing based in Open Lab where I lead the Inclusive Design & Innovation (IDI) research group. My research spans a breadth of topics and domains with the unifying vision - to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities. More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society.
