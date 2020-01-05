@@ -44,4 +44,14 @@ date_format = "Jan 2006"
   date_end = "2016-02-01"
   description = """"""
 
+[[experience]]
+  title = "Co-Founder &  Technical Director"
+  company = "iGiveADamn Community Interest Company"
+  company_url = ""
+  location = "Dundee, UK"
+  date_start = "2009-06-01"
+  date_end = "2014-01-01"
+  description = """"""
+
+
 +++
