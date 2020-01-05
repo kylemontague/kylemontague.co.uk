@@ -45,7 +45,7 @@
       {{ $src = $avatar_image.RelPermalink }}
     {{ end }}
     {{ if $src }}
-      <img class="portrait" src="{{ $src }}" alt="Avatar">{{end}}
+      <img class="portrait" src="{{ $src }}" alt="{{with .Params.name }}">{{end}}
     {{ end }}
 
     <div class="portrait-title">
