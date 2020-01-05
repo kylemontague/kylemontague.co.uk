@@ -17,8 +17,7 @@ subtitle = "Research Group"
                  "Researchers",
                  "PhD Students",
                  "MSc Students",
-                 "Administration",
-                 "Visitors",
+                 "Visiting Researchers",
                  "Alumni"]
 
 [design]
