@@ -8,11 +8,11 @@ tags: []
 amount: "£464,246"
 role: "Co-Investigator"
 funder: "Autistica"
-external_link: "2019-02-01"
-date_start: "2022-02-01"
-date_end: ""
-pi:  ""
-cois: ["Kyle Montague"]
+external_link: ""
+date_start: "2019-02-01"
+date_end: "2022-02-01"
+pi:  "Jeremy Parr"
+cois: ["Jeremy Parr","Kyle Montague"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
