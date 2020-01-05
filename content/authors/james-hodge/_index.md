@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Ebtisam Alabdulqader
+name: James Hodge
 
 # Username (this should match the folder name)
 authors:
-- ebtisam-alabdulqader
+- james-hodge
 
 # Is this the primary user of the site?
 superuser: false
@@ -57,6 +57,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-- Alumni
 ---
 
