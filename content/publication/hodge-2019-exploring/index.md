@@ -4,8 +4,9 @@ date: 2019-05-01
 publishDate: 2019-05-01T11:04:37.669276Z
 authors: ["James Hodge", "Kyle Montague", "Sandra Hastings", "Kellie Morrissey"]
 publication_types: ["1"]
-abstract: ""
+abstract: "Although designing interactive media experiences for people with dementia has become a growing interest in HCI, a strong focus on family members has rarely been recognised as worthy of design intervention. This paper presents a research through design (RTD) approach working closely with families living with dementia in order to create personalised media experiences. Three families took part in day trips, which they co-planned, with data collection during these days providing insights into their shared social experiences. Workshops were also held in order to personalise the experience of the media created during these days out. Our qualitative analysis outlines themes focusing on individuality, relationships, and accepting changed realities. Furthermore, we outline directions for future research focusing on designing for contested realities, the personhood of carers, and the ageing body and immersion."
 featured: false
 publication: "*Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*"
+url_pdf: https://dl.acm.org/doi/10.1145/3290605.3300653
 ---
 
