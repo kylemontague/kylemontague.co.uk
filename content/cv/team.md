@@ -5,7 +5,7 @@
 widget = "team"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 120  # Order that this section will appear.
 
 title = "Inclusive Design & Innovation"
 subtitle = "Research Group"
