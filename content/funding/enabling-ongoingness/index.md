@@ -8,7 +8,7 @@ We are living in a new digital age, each gathering a digital trail of media and 
 
 Through links via our partners from Alzheimer's Society, Cruse, NCPC, HospiceUK, Dementia Positive, Marie Curie and Dementia Care we will work with older old people, carers and the bereaved using a research through design methodology to gently use acts of making and reflecting through objects to firstly develop new ways of using our metadata, secondly develop and deploy Internet of Things high fidelity prototypes that enable creation and curation of this digital media in new ways and thirdly develop new visions of consumption that foreground ongoingness. To give an example of what this could mean in the context of anticipating death - through their lives Betty and Derrick always used to jokingly argue with each other as to which song was better The Beatles 'Blackbird' or 'Dear Prudence'. Derrick curates their media so that after his death when Betty selects 'Blackbird', the song 'Dear Prudence' will always be played straight afterwards because he knows that it will make Betty smile. The couple loved gardening, now every May Betty unfolds her e-paper and a compilation of podcasts featuring specific flowers from the current year's Chelsea Flower Show are sent to Betty and a matching bouquet is delivered to her with anecdotes from Derrick's blog of how he grew some of these plants."
 tags: []
-date: 2017-06-01T00:00:00Z
+date: 2017-06-01
 
 
 amount: "£885,438"

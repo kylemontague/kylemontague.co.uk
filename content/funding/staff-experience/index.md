@@ -14,7 +14,7 @@ As many staff as possible will be encouraged to respond an annual staff experien
 
 This evidence will inform improvement pilots led by eight teams across the trust, focused on improving staff experience and performance. Team results will be analysed and interpreted independently, and correlated with real-time patient experience measures, sickness and absence levels, team-level patient complaints, and safety data."
 tags: ["Digital Health"]
-date: 2019-01-01T00:00:00Z
+date: 2019-01-01
 
 
 amount: "£75,000"

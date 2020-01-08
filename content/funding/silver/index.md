@@ -6,7 +6,7 @@ summary: "One of Connected Health Cities’ major areas of interest in the North
 
 The SILVER project aims to link data across multiple agencies including health (physical and mental), social care, criminal justice, housing and education in order to develop a more complete Learning Health System."
 tags: []
-date: 2017-01-01T00:00:00Z
+date: 2017-01-01
 
 
 amount: "£403,405"

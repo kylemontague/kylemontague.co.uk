@@ -4,7 +4,7 @@
 title: "COLOSPEED"
 summary: "Development of a world-leading colorectal cancer research hub in the North East of England."
 tags: ["Digital Health"]
-date: 2019-11-01T00:00:00Z
+date: 2019-11-01
 
 amount: "£985,000"
 role: "Co-Investigator"

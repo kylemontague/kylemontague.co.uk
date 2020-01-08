@@ -18,7 +18,7 @@ The backbone of this research agenda is a commitment to social inclusion and the
 
 The Centre's research will be conducted in the context of local government service provision in the Northeast of England, in close partnership with Newcastle City Council, Gateshead Council and Northumberland, and supported by a consortium of key commercial, third sector and professional body partners. DERC's extensive program of research, knowledge exchange and public engagement activities will involve over 20 postdoctoral researchers and 25 investigators from Computer Science (HCI, Social Computing, Cloud Computing, Security), Business & Economics, Behavioural Science, Planning, Education, Statistics, Social Gerontology, Public Health and Health Services Research."
 tags: []
-date: 2015-11-01T00:00:00Z
+date: 2015-11-01
 
 
 amount: "£4,051,357"
