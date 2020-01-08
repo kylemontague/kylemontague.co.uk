@@ -6,7 +6,7 @@ summary: "The global mobile phone industry has emerged as an important partner i
 
 Working in partnership with the GSMA's Mobile for Development Utilities programme and ElectriCChain, developers of the SolarCoin Blockchain, this 24 month research project brings together a team of electrical and electronic engineers, human-computer interaction specialists, and social anthropologists to explore the potential for distributed ledger technologies to accelerate access to off grid solar energy in Sub-Saharan Africa by delinking current business models from existing mobile money payment infrastructures and third parties, creating new models for incentivising and rewarding the installation of off grid solar, and developing new peer-to-peer business models."
 tags: []
-date: "2018-02-01"
+date: 2018-02-01
 
 
 amount: "£479,997"

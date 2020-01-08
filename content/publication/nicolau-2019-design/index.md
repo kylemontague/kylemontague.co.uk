@@ -9,4 +9,7 @@ featured: false
 publication: "ASSETS '19: The 21st International ACM SIGACCESS Conference on Computers and Accessibility"
 url_pdf: https://doi.org/10.1145/3308561.3353786
 doi: 10.1145/3308561.3353786
+
+projects: ["nonvisual-design-space"]
+
 ---
