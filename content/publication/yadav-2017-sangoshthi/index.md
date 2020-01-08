@@ -1,11 +1,13 @@
 ---
 title: "Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India"
-date: 2017-01-01
-publishDate: 2017-01-04T11:04:37.653985Z
-authors: ["Deepika Yadav", "Pushpendra Singh", "Kyle Montague", "Vijay Kumar", "Deepak Sood", "Madeline Balaam", "Drishti Sharma", "Mona Duggal", "Tom Bartindale", "Delvin Varghese", " others"]
+date: 2017-04-01
+publishDate: 2017-04-01T11:04:37.653985Z
+authors: ["Deepika Yadav", "Pushpendra Singh", "Kyle Montague", "Vijay Kumar", "Deepak Sood", "Madeline Balaam", "Drishti Sharma", "Mona Duggal", "Tom Bartindale", "Delvin Varghese", "Patrick Olivier"]
 publication_types: ["1"]
-abstract: ""
+abstract: "The Healthcare system of India provides outreach services to the rural population with a key focus on the maternal and child health through its flagship program of Community Health Workers (CHWs). The program since its launch has reached a scale of over 900000 health workers across the country and observed significant benefits on the health indicators. However, traditional face to face training mechanisms face persistent challenge in providing adequate training and capacity building opportunities to CHWs which leads to their sub-optimal knowledge and skill sets. In this paper, we propose Sangoshthi, a low-cost mobile based training and learning platform that fits well into the environment of low-Internet access. Sangoshthi leverages the architecture that combines Internet and IVR technology to host real time training sessions with the CHWs having access to basic phones only. We present our findings of a four week long field deployment with 40 CHWs using both qualitative and quantitative methods. Sangoshthi offers a lively environment of peer learning that was well received by the CHW community and resulted into their knowledge gains (16%) and increased confidence levels to handle the cases. Our study highlights the potential of complementary training platforms that can empower CHWs in-situ without the need of additional infrastructure."
 featured: false
-publication: "*Proceedings of the 26th International Conference on World Wide Web*"
+publication: "Proceedings of the 26th International Conference on World Wide Web"
+url_pdf: https://doi.org/10.1145/3038912.3052624
+doi: 10.1145/3038912.3052624
 ---
 
