@@ -9,15 +9,15 @@ IDEA-FAST aims to address these issues by identifying novel digital endpoints fo
 To identify these digital endpoints, we will follow the recommendations of the Clinical Trials Transformation Initiative (CTTI). We will identify the characteristics that fatigue and sleep disturbances will have impact, then select the digital measures (endpoints) to quantify them, followed by choosing the appropriate digital device/technology accordingly. We will then perform a pilot study to prioritise a few of these candidate digital endpoints for validation. We will test the performance of these digital endpoints in two NDD and four IMID in a large longitudinal study during which extensive relevant clinical data will be collected. If these digital endpoints were validated, we will seek support from EMA/FDA for their qualification. Patient users’ perspective, ethical, data privacy, legal and other regulatory issues will be taken into consideration in all aspects of our proposal.
 The resultant digital biobank from the longitudinal study will become an invaluable resource for future exploitation."
 tags: ["digital health"]
-date: 2019-11-01
+date: 2019-11-02
 
 
 amount: "€20,900,000"
 role: "Co-Investigator"
 funder: "European Innovative Medicines Initiative 2 Joint Undertaking (IMI)"
 external_link: ""
-date_start: "2019-11-01"
-date_end: "2024-11-01"
+date_start: "2019-11-02"
+date_end: "2024-11-02"
 pi:  ""
 cois: []
 
