@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Projects"
-subtitle = '[more projects]({{< ref "/project/_index.md" >}})'
+subtitle = "<a href='/project' >more projects</a>"
 
 [content]
   # Page type to display. E.g. project.
