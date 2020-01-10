@@ -5,18 +5,32 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
 - type: datetime
   name: publishDate
   label: publishDate
+  config:
+    required: true
+  default: now
 - type: list
   name: authors
   label: authors
+  config:
+    min: '1'
 - type: list
   name: publication_types
   label: publication_types
+  config:
+    use_select: false
+    min: '1'
+    max: '1'
 - type: textarea
   name: abstract
   label: abstract
@@ -29,3 +43,8 @@ fields:
 - type: text
   name: url_pdf
   label: url_pdf
+- name: doi
+  type: text
+  config:
+    required: false
+  label: doi
