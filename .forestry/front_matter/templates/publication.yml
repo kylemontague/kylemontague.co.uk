@@ -1,0 +1,31 @@
+---
+label: Publication
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: publishDate
+  label: publishDate
+- type: list
+  name: authors
+  label: authors
+- type: list
+  name: publication_types
+  label: publication_types
+- type: textarea
+  name: abstract
+  label: abstract
+- type: boolean
+  name: featured
+  label: featured
+- type: text
+  name: publication
+  label: publication
+- type: text
+  name: url_pdf
+  label: url_pdf
