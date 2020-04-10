@@ -49,3 +49,5 @@ fields:
   config:
     required: false
   label: doi
+pages:
+- content/publication/refind-design-lived-experience-and-ongoingness-in-bereavement.md
