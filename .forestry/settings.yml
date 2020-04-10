@@ -38,6 +38,11 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: content/authors
+  label: People
+  create: all
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
