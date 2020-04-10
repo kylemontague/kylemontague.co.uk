@@ -3,7 +3,6 @@ abstract = "We describe the design and use of ReFind, a handheld artefact made f
 authors = ["Jayne Wallace", "Kyle Montague", "Trevor Duncan", "Luis Carvalho", "Nantia Koulidou", "Jamie Mahoney", "Kellie Morrissey", "Claire Craig", "Linnea Groot", "Shaun Lawson", "Patrick Olivier", "Julie Trueman", "Helen Fisher"]
 date = 2020-04-08T23:00:00Z
 doi = ""
-draft = true
 featured = true
 publication = "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems"
 publication_types = ["1"]
