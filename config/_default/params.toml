@@ -90,7 +90,7 @@ address = {street = "CIS Building, Northumbria University", city = "Newcastle up
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "54.9781096", longitude = "-1.6079828"}
+coordinates = {latitude = "54.976694", longitude = "-1.606902"}
 
 # Directions for visitors to locate you.
 # directions = "Enter the Urban Science Building and take the stairs to Open Lab USB 1.024 on Floor 2"
