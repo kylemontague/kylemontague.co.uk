@@ -36,7 +36,7 @@ social:
 - icon: acm
   icon_pack: ai
   link: https://dl.acm.org/profile/81472655898
-email: kyle.montague@ncl.ac.uk
+email: kyle.montague@northumbria.ac.uk
 user_groups:
 - Group Leader
 
