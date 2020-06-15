@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kyle.montague@ncl.ac.uk"
+email = "kyle.montague@northumbria.ac.uk"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 Science Square", city = "Newcastle upon Tyne", region = "Tyne & Wear", postcode = "NE4 5TG", country = "United Kingdom", country_code = "UK"}
+address = {street = "CIS Building, Northumbria University", city = "Newcastle upon Tyne", region = "Tyne & Wear", postcode = "NE1 8ST", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "54.973546", longitude = "-1.625236"}
+coordinates = {latitude = "54.9781096", longitude = "-1.6079828"}
 
 # Directions for visitors to locate you.
-directions = "Enter the Urban Science Building and take the stairs to Open Lab USB 1.024 on Floor 2"
+# directions = "Enter the Urban Science Building and take the stairs to Open Lab USB 1.024 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
