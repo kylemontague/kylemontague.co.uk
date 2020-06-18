@@ -3,7 +3,7 @@ name: Kyle Montague
 authors:
 - kyle-montague
 superuser: true
-role: Associate Professor in Human-Computer Interaction
+role: Associate Professor
 organizations:
 - name: NorSC, Northumbria University
   url: https://nor.sc/
