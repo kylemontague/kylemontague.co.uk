@@ -14,6 +14,5 @@ social:
 email: ''
 user_groups:
 - Alumni
-- PhD Students
 
 ---
