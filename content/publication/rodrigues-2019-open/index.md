@@ -9,7 +9,7 @@ authors:
 - João Guerreiro
 - Tiago Guerreiro
 publication_types:
-- '0'
+- '2'
 abstract: Blind people face significant challenges when using smartphones. The focus
   on improving non-visual mobile accessibility has been at the level of touchscreen
   access. Our research investigates the challenges faced by blind people in their
