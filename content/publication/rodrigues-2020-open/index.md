@@ -23,5 +23,7 @@ abstract: Blind people face significant challenges when using smartphones. The f
   for future research that tackle the open and often overlooked challenges.
 featured: false
 publication: International Journal of Human–Computer Interaction
+doi: 10.1080/10447318.2020.1768672
+url_pdf: https://doi.org/10.1080/10447318.2020.1768672,
 
 ---
