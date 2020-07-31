@@ -49,3 +49,5 @@ fields:
   config:
     required: false
   label: doi
+pages:
+- content/publication/talhouk-2020-food-aid-technology/food-aid-technology-the-experience-of-a-syrian-refugee-community-in-coping-with-food-insecurity.md
