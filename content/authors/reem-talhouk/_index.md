@@ -3,7 +3,7 @@ name: Reem Talhouk
 authors:
 - reem-talhouk
 superuser: false
-role: PhD Student
+role: PhD Student (2016-2020)
 organizations:
 - name: Northumbria University
   url: ''
