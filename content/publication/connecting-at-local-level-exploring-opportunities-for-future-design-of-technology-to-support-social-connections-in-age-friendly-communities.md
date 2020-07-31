@@ -3,7 +3,6 @@ abstract = "Social connectedness in later life is an important dimension of an a
 authors = ["Jennifer Liddle", "Nicole Pritcher", "Kyle Montague", "Barbara Hanratty", "Holly Standing", "Thomas Scharf"]
 date = 2020-07-31T11:27:43Z
 doi = "https://doi.org/10.3390/ijerph17155544"
-draft = true
 featured = false
 publication = "International Journal of Environmental Research and Public Health"
 publication_types = ["2"]
