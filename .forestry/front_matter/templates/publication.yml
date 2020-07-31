@@ -50,4 +50,5 @@ fields:
     required: false
   label: doi
 pages:
+- content/publication/connecting-at-local-level-exploring-opportunities-for-future-design-of-technology-to-support-social-connections-in-age-friendly-communities.md
 - content/publication/refind-design-lived-experience-and-ongoingness-in-bereavement.md
