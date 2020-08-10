@@ -50,5 +50,6 @@ fields:
     required: false
   label: doi
 pages:
+- content/publication/rainey-2020-talkfutures/talkfutures-supporting-qualitative-practices-in-distributed-community-engagements.md
 - content/publication/talhouk-2020-food-aid-technology/food-aid-technology-the-experience-of-a-syrian-refugee-community-in-coping-with-food-insecurity.md
 - content/publication/wallace-2020-bereavement-care/design-research-to-support-ongoingness.md
