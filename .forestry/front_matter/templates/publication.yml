@@ -29,9 +29,25 @@ fields:
   name: publication_types
   label: publication_types
   config:
-    use_select: false
-    min: '1'
-    max: '1'
+    use_select: true
+    min: 0
+    max: 10
+    source:
+      type: simple
+    options:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '6'
+    - '7'
+    - '8'
+    - '9'
+    - '10'
+  description: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article, 3 = Preprint,
+    4 = Report, 5 = Book, 6 = Book Section, 7 = Thesis, 8 = Patent, 9 = Workshop,
+    10 = Poster<br>
 - type: textarea
   name: abstract
   label: abstract
