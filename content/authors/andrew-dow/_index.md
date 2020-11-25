@@ -12,7 +12,6 @@ interests:
 education: 
 social: 
 email: ''
-user_groups:
-- Researchers
+user_groups: []
 
 ---
