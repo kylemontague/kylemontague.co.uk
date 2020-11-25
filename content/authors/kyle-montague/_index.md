@@ -41,4 +41,4 @@ user_groups:
 - Group Leader
 
 ---
-I am an Associate Professor at Northumbria University where I co-lead [NorSC Lab](https://nor.sc "Northumbria Social Computing Lab"). My research spans a breadth of topics and domains with the unifying vision - **to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities.** More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society.
+I am an Associate Professor and co-lead of [NorSC Lab](https://nor.sc "Northumbria Social Computing Lab") at Northumbria University. My research spans a breadth of topics and domains with the unifying vision - **to address critical social problems and challenges by designing and configuring digital technologies that empower individuals and marginalised communities.** More specifically, my work seeks to democratise access to the tools and processes by which we provision technologies and services that shape society.
