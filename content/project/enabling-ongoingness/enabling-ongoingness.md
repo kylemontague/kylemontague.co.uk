@@ -13,8 +13,8 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 [image]
-caption = ""
-focal_point = ""
+caption = "two hands holding the Refind artefact. The small circular screen is showing an image of 3 dogs from the media archive"
+focal_point = "Smart"
 preview_only = false
 
 +++
