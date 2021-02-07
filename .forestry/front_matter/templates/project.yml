@@ -1,6 +1,7 @@
 ---
 label: Project
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
@@ -43,6 +44,11 @@ fields:
   - type: boolean
     name: preview_only
     label: preview_only
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
 - type: text
   name: url_code
   label: url_code
@@ -58,5 +64,3 @@ fields:
 - type: text
   name: slides
   label: slides
-pages:
-- content/project/enabling-ongoingness/enabling-ongoingness.md
